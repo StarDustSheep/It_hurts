@@ -1,0 +1,33 @@
+{
+  "name": "It_hurts",
+  "author": "StarDustSheep",
+  "url": "https://github.com/StarDustSheep/It_hurts",
+  "version": "0.0.1",
+  "displayName": {
+    "default": "It_hurts",
+    "zh_CN": "痛,太痛了"
+  },
+  "description": {
+    "default": "The world denied my happiness now all will die",
+    "zh_CN": "世界将我无情毁弃，现在我将以痛报之"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.md"
+  },
+  "i18n": [
+    "en_US",
+    "zh_CN"
+  ],
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://www.bilibili.com/video/BV1h3411j7EA/?vd_source=53287ba5828305cc168ced022e9c72ce"
+    ]
+  },
+  "modes": [
+    "dark"
+  ]
+}
