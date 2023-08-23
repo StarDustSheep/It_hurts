@@ -2,7 +2,7 @@
   "name": "It_hurts",
   "author": "StarDustSheep",
   "url": "https://github.com/StarDustSheep/It_hurts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": {
     "default": "It_hurts",
     "zh_CN": "痛,太痛了"
@@ -13,7 +13,7 @@
   },
   "readme": {
     "default": "README.md",
-    "zh_CN": "README.md"
+    "zh_CN": "README_zh_CN.md"
   },
   "i18n": [
     "en_US",
